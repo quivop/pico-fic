@@ -22,7 +22,7 @@ a l:
 body {
     margin:40px 0;
     line-height:1.6;
-    font-family: Verdana, sans-serif;
+    font-family: Georgia, sans-serif;
     font-size:16px;
     color:#444;
     padding:0 10px;
@@ -53,12 +53,13 @@ h5 { margin-top: 2.4em; margin-bottom: .2em; }
 h6 { margin-top: 2.6em; margin-bottom: .1em; } 
 
 nav a {
+    font-family: Arial, sans-serif;
     padding: .3em;
     border: 1px solid #ccc; 
 }
 
 a:link { color: blue; }
-a:hover, a:active { color: red; }
+a:hover, a:active, a:visited:hover { color: red; }
 
 a:visited { color: purple; }
 
