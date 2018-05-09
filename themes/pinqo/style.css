@@ -70,9 +70,17 @@ nav a:hover {
 }
 
 hr {
-    /*max-width: 600px;*/
-    /*text-align: left;*/
     border-top: medium double #333;
+}
+
+section.fic {
+    border: 1px dotted #333;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+section.fic h3 {
+    margin-top: 1em;
 }
 
 /* container styles */
