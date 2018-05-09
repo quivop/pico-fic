@@ -11,11 +11,12 @@ nav a hover bg: f4f0ed
 
 /* Typography ***************/
 
+html { font-size: 62.5% }
 body {
     margin:40px 0;
     line-height:1.6;
     font-family: Georgia, sans-serif;
-    font-size:16px;
+    font-size:1.6em;
     color:#444;
     padding:0 10px;
     background-color: #453e3a;
@@ -101,6 +102,7 @@ section.fic h3 {
     padding: 20px;
     box-sizing: border-box;
     background-color: #fff;
+    height: 100%;
 }
 
 .column, .columns {
