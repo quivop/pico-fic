@@ -69,7 +69,11 @@ nav a:hover {
     color: crimson;
 }
 
-
+hr {
+    /*max-width: 600px;*/
+    /*text-align: left;*/
+    border-top: medium double #333;
+}
 
 /* container styles */
 
