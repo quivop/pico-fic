@@ -1,21 +1,13 @@
 /* Colors
 
-text: 666
-background: 453e3a
-a active/hover: eb3d60
-a visited: 660b1d 
-a link: 0066cc
-nav a hover bg: e8d2c4
-
-/* originals:
-
+CURRENT
 text: 444
-bg: fff
-a a/h: 
-a v:
-a l:
+background: 453e3a
+a active/hover: crimson
+a visited: purple 
+a link: blue
+nav a hover bg: f4f0ed
 
-*/
 
 /* Typography ***************/
 
@@ -26,6 +18,7 @@ body {
     font-size:16px;
     color:#444;
     padding:0 10px;
+    background-color: #453e3a;
 }
 
 p { max-width: 650px; }
@@ -41,6 +34,17 @@ h1,h2,h3,h4,h5,h6 {
     margin-bottom: .4em;
     font-family: "Gill Sans MT", "Futura", "Tw Cen MT", "Trebuchet MS", sans-serif; 
     text-transform: uppercase;
+}
+
+#sitetitle h1 a {
+    color: #453e3a;
+    text-decoration: none;
+}
+
+#sitetitle h1 a:hover, 
+#sitetitle h1 a:visited:hover,
+#sitetitle h1 a:active {
+    color: crimson;
 }
 
 #sitetitle aside { font-size: .8em; font-style: italic;}
@@ -59,7 +63,7 @@ nav a {
 }
 
 a:link { color: blue; }
-a:hover, a:active, a:visited:hover { color: red; }
+a:hover, a:active, a:visited:hover { color: crimson; }
 
 a:visited { color: purple; }
 
@@ -94,8 +98,9 @@ section.fic h3 {
     width: 100%;
     max-width: 960px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 20px;
     box-sizing: border-box;
+    background-color: #fff;
 }
 
 .column, .columns {
