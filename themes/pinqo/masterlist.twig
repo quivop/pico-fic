@@ -8,8 +8,6 @@
             <p>Jump to:</p>
 
             <ul>
-                <li><a href="" title="">Test fic item</a></li>
-                <li><a href="" title="">Test fic item 2</a></li>
                 {% for page in pages|sort_by('title') %}
                 {% if page.id starts with "fic/" %}
                 {% if date(page.date) > date('-30days') %}
