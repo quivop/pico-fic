@@ -2,23 +2,21 @@
         <main>
             {{ content }}
 
-            <hr>
+            <section class="masterlist-toc">
+                <h2>The Masterlist</h2>
+                <ul>
+                    {% for page in pages|sort_by('title') %}
+                    {% if page.id starts with "fic/" %}
+                    {% if date(page.date) > date('-30days') %}
+                    <li><a href="#{{ page.meta.slug }}" title="link to {{ page.title }}">{{ page.title }}</a> <span class="new-fic">(new)</span></li>
+                    {% else %}
+                    <li><a href="#{{ page.meta.slug }}" title="link to {{ page.title }}">{{ page.title }}</a></li>
+                    {% endif %}
+                    {% endif %}
+                    {% endfor %}
 
-            <h2>The Masterlist</h2>
-            <p>Jump to:</p>
-
-            <ul>
-                {% for page in pages|sort_by('title') %}
-                {% if page.id starts with "fic/" %}
-                {% if date(page.date) > date('-30days') %}
-                <li><a href="#{{ page.meta.slug }}" title="link to {{ page.title }}">{{ page.title }}</a> <span class="new-fic">(new)</span></li>
-                {% else %}
-                <li><a href="#{{ page.meta.slug }}" title="link to {{ page.title }}">{{ page.title }}</a></li>
-                {% endif %}
-                {% endif %}
-                {% endfor %}
-
-            </ul>
+                </ul>
+            </section>
 
             <hr>
 
