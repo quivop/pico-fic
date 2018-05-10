@@ -1,15 +1,15 @@
-
+        {% if not is_front_page %}
         <footer>
             <hr>
             <p>Last edited on: <time datetime="{{ page.date|date("Y-m-d") }}">{{ page.date|date("jS F, Y") }}</time>.</p>
 
-            {% if not is_front_page %}
+            
             <nav>
                 <a href="#sitetitle" title="go back to top">back to top?</a>
             </nav>
-            {% endif %}
+        
         </footer>
-
+        {% endif %}
     </div>
 
 </body>
