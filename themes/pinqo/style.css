@@ -13,22 +13,28 @@ nav a hover bg: f4f0ed
 
 html { font-size: 62.5% }
 body {
-    margin:40px 0;
+    margin:20px 0;
     line-height:1.6;
     font-family: Georgia, sans-serif;
     font-size:1.6em;
     color:#444;
     padding:0 10px;
-    background-color: #453e3a;
 }
 
 p { max-width: 650px; }
 
 h1,h2,h3,h4,h5,h6 {
-    line-height:1.2;
+    line-height:1.1;
     font-family: Arial, sans-serif;
     color: #453e3a;
 }
+
+/*h1 { margin-top: 1.6em; margin-bottom: .5em; }
+h2 { margin-top: 1.8em; margin-bottom: .5em; }
+h3 { margin-top: 2.0em; margin-bottom: .4em; }
+h4 { margin-top: 2.2em; margin-bottom: .3em; }
+h5 { margin-top: 2.4em; margin-bottom: .2em; }
+h6 { margin-top: 2.6em; margin-bottom: .1em; } */
 
 #sitetitle h1 { 
     margin-top: .67em; 
@@ -49,13 +55,6 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #sitetitle aside { font-size: .8em; font-style: italic;}
-
-h1 { margin-top: 1.6em; margin-bottom: .5em; }
-h2 { margin-top: 1.8em; margin-bottom: .5em; }
-h3 { margin-top: 2.0em; margin-bottom: .4em; }
-h4 { margin-top: 2.2em; margin-bottom: .3em; }
-h5 { margin-top: 2.4em; margin-bottom: .2em; }
-h6 { margin-top: 2.6em; margin-bottom: .1em; } 
 
 nav a {
     font-family: Arial, sans-serif;
@@ -89,6 +88,8 @@ section.fic {
 section.fic h3 {
     margin-top: 1em;
 }
+
+main.fic.post h1 {  }
 
 /* Container styles ***************/
 /* (stolen from skeleton.css! *****/
