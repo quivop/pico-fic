@@ -5,6 +5,7 @@ Author: Ms. Butts
 Template: fic-post
 Description: This is fic two speaking...
 Slug: fic_3
+Fandom: Cow Dudes
 Summary: This is a short frigging summary of the fic~
 Rating: Baby level 2.
 Characters: Baby Daddy, Baby Daddy 2, Cow Baby
@@ -19,12 +20,17 @@ And this is some text about the fic. Woo!
 
 <span class="fic-meta">
 
-- **Summary:** %meta.summary%
-- **Rating:** %meta.rating%
-- **Characters:** %meta.characters%
-- **Content notes:** %meta.content_notes%
-- **Links:**
-	- [AO3](%meta.ao3_link%)
-	- [FF.net](%meta.ffn_link%)
+**Fandom:** %meta.fandom%
+
+**Summary:** %meta.summary%
+
+**Rating:** %meta.rating%
+
+**Characters:** %meta.characters%
+
+**Content notes:** %meta.content_notes%
+
+**Links:**
+[AO3](%meta.ao3_link%) | [FF.net](%meta.ffn_link%)
 
 </span>
