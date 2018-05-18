@@ -13,7 +13,7 @@ ffn_link: https://ff.net
 is_series: N
 ---
 
-# Hi this is the fic title
+## Hi this is the fic title
 
 And this is some text about the fic. Woo!
 

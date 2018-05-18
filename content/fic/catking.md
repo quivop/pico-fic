@@ -1,14 +1,27 @@
 ---
 Title: Cat and King
-is_series: N
-Date: 2013/01/01
+Date: 2018/05/18
 Author: Quivo
 Template: fic-post
-Description: This is fic one speaking...
+Description: A short Rita Skeeter / Original Male Character ficlet.
 Slug: cat_king
-Summary: This is a short frigging summary of the fic~ OK??
+Fandom: A Fandom
+Rating: E
+Summary: Rita mine, dating old blood... I don't like what the world's coming to, but I like that.
+ao3_link: http://archiveofourown.org/works/1935
+is_series: N
 ---
 
-# Hi this is fic
+## Cat and King 
 
-And this is some text about the fic. Woo!
+<span class="fic-meta">
+
+- **Summary:** *"%meta.summary%"*
+- **Content Notes:** Rated %meta.rating%, for explicit sex. Rita Skeeter and an original male character feature prominently. 555 words, complete.
+- **Links:** [AO3](%meta.ao3_link% "Go to Cat and King on the AO3").
+
+</span>
+
+[Back to masterlist][masterlist]?
+
+[masterlist]: %base_url%/ficlist "Go back to fic masterlist"

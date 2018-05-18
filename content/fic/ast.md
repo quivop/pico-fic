@@ -11,7 +11,7 @@ Summary: What happens to the Wizarding World when Bellatrix and others discover 
 is_series: Y
 ---
 
-# The A Surreal Tale series
+## The A Surreal Tale series
 A Slytherin!Harry AU in which I indulged all my iddy yearnings for renamed!street-rat!Harry. The final story was sadly never completed, as I ran aground on that frequent bane of sorting!AU and canon divergence writers: keeping it all going past the first couple years. I had so much fun working on a lot of it, though, and I hope you have fun reading it too.
 
 1. A Surreal Tale
