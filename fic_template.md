@@ -31,3 +31,7 @@ To add a fic to the masterlist, save this file with a short, slug-friendly name 
 [AO3](%meta.ao3_link%) | [FF.net](%meta.ffn_link%)
 
 </span>
+
+[Back to masterlist][masterlist]?
+
+[masterlist]: %base_url%/ficlist "Go back to fic masterlist"
