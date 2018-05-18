@@ -5,8 +5,6 @@ Author: Quivo
 Template: fic-post
 Description: This is fic two speaking...
 Slug: ast
-Fandom: Harry Potter
-Rating: E
 Summary: What happens to the Wizarding World when Bellatrix and others discover the news of her inability to bear magical children? An enraged Dark Lord falls, and a small boy becomes missing: Harry.
 is_series: Y
 ---
