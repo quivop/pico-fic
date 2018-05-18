@@ -19,7 +19,7 @@
 /*
  * BASIC
  */
-$config['site_title'] = "Sample Fiction Website";              // Site title
+$config['site_title'] = "Pinqury";              // Site title
 // $config['base_url'] = '';                    // Override base URL (e.g. http://example.com)
 // $config['rewrite_url'] = null;               // A boolean indicating forced URL rewriting
 
@@ -36,7 +36,7 @@ $config['theme'] = 'pinqo';                // Set the theme (defaults to "defaul
 /*
  * CONTENT
  */
-// $config['date_format'] = '%D %T';            // Set the PHP date format as described here: http://php.net/manual/en/function.strftime.php
+$config['date_format'] = '%D %r';            // Set the PHP date format as described here: http://php.net/manual/en/function.strftime.php
 // $config['pages_order_by'] = 'alpha';         // Order pages by "alpha" or "date"
 // $config['pages_order'] = 'asc';              // Order pages "asc" or "desc"
 // $config['content_dir'] = 'content-sample/';  // Content directory
@@ -45,7 +45,7 @@ $config['theme'] = 'pinqo';                // Set the theme (defaults to "defaul
 /*
  * TIMEZONE
  */
-// $config['timezone'] = 'UTC';                 // Timezone may be required by your php install
+$config['timezone'] = 'America/Los_Angeles';                 // Timezone may be required by your php install
 
 /*
  * PLUGINS
