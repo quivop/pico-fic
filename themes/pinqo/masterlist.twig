@@ -9,7 +9,7 @@
                 <ul>
                     {% for page in pages|sort_by('title') %}
                     {% if page.id starts with "fic/" %}
-                    {% if date(page.date) > date('-30days') %}
+                    {% if date(page.meta.date) > date('-30days') %}
                     <li><a href="#{{ page.meta.slug }}" title="link to {{ page.title }}">{{ page.title }}</a> <span class="new-fic">(new)</span></li>
                     {% else %}
                     <li><a href="#{{ page.meta.slug }}" title="link to {{ page.title }}">{{ page.title }}</a></li>
@@ -26,7 +26,7 @@
             {% if page.id starts with "fic/" %}
             <section class="fic">
             <h3 id="{{ page.meta.slug }}"><a href="{{ page.url }}">{{ page.title }}</a></h3>
-            <p><strong>Fic posted on:</strong> <time datetime="{{ page.date|date("Y-m-d") }}">{{ page.date|date("jS F, Y") }}</date></p>
+            <p><strong>Fic posted on:</strong> <time datetime="{{ page.meta.date|date("Y-m-d") }}">{{ page.meta.date|date("jS F, Y") }}</date></p>
             <p>{{ page.meta.summary }}</p>
             </section>
             {% endif %}
