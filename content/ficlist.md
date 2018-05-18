@@ -1,6 +1,7 @@
 ---
 Title: Fic Masterlist
 Template: masterlist
+Date: 2018/05/08
 ---
 
 ## How to use this masterlist
