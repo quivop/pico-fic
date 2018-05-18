@@ -17,7 +17,7 @@ is_series: N
 
 And this is some text about the fic. Woo!
 
-To add a fic to the masterlist, save this file with a short, slug-friendly name (e.g. "fic-title" for a fic named "Fic Title") in the `content\fic` folder, then change the values here to suit your fic. You'll want to 
+To add a fic to the masterlist, save this file with a short, slug-friendly name (e.g. "fic-title" for a fic named "Fic Title") in the `content\fic` folder, then change the values here to suit your fic. 
 
 <span class="fic-meta">
 
@@ -26,10 +26,6 @@ To add a fic to the masterlist, save this file with a short, slug-friendly name 
 **Summary:** %meta.summary%
 
 **Rating:** %meta.rating%
-
-**Characters:** %meta.characters%
-
-**Content notes:** %meta.content_notes%
 
 **Links:**
 [AO3](%meta.ao3_link%) | [FF.net](%meta.ffn_link%)
