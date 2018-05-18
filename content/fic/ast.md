@@ -32,3 +32,5 @@ A Slytherin!Harry AU in which I indulged all my iddy yearnings for renamed!stree
 	- **Links:** [FF.net](https://www.fanfiction.net/s/3741153/1/A-Fractured-Year)
 
 [Back to masterlist][masterlist]?
+
+[masterlist]: %base_url%/ficlist "Go back to fic masterlist"
