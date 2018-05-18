@@ -1,10 +1,10 @@
 ---
-Title: Fic number 2
-Date: 2013/01/05
-Author: Ms. Butts
+Title: A Lily Growing Thorns
+Date: 2018/04/24
+Author: Quivo
 Template: fic-post
 Description: This is fic two speaking...
-Slug: fic_2
+Slug: algt
 Summary: This is a short frigging summary of the fic~ BABY
 ---
 

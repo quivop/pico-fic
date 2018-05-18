@@ -1,10 +1,11 @@
 ---
-Title: Fic number 1
+Title: Cat and King
+is_series: N
 Date: 2013/01/01
-Author: Ms. Butts
+Author: Quivo
 Template: fic-post
 Description: This is fic one speaking...
-Slug: fic_1
+Slug: cat_king
 Summary: This is a short frigging summary of the fic~ OK??
 ---
 
