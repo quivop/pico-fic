@@ -5,7 +5,6 @@ Author: Quivo
 Template: fic-post
 Description: A short Rita Skeeter / Original Male Character ficlet.
 Slug: cat_king
-Rating: E
 Summary: Rita mine, dating old blood... I don't like what the world's coming to, but I like that.
 ao3_link: http://archiveofourown.org/works/1935
 is_series: N

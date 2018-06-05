@@ -5,8 +5,9 @@ Author: Quivo
 Template: fic-post
 Description: A Lily Potter / Evan Rosier fanfic.
 Slug: algt
+Fandom: Harry Potter
 Summary: The strange thing between Lily and Evan starts as sex, but doesn't end that way. It never ends at all.
-Rating: E
+
 ao3_link: https://archiveofourown.org/works/14406780
 is_series: N
 ---

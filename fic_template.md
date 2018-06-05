@@ -6,7 +6,6 @@ Template: fic-post
 Description: This is fic two speaking...
 Slug: fict
 Fandom: A Fandom
-Rating: E
 Summary: This is a short frigging summary of the fic~ BABY
 ao3_link: https://ao3.net
 ffn_link: https://ff.net
