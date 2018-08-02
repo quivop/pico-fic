@@ -1,5 +1,5 @@
 ---
-Title: Fic Template
+Title: Fic Template Title
 Date: 2018/05/18
 Author: Quivo
 Template: fic-post
@@ -12,24 +12,18 @@ ffn_link: https://ff.net
 is_series: N
 ---
 
-## Hi this is the fic title
+## Fic Template Title
 
 And this is some text about the fic. Woo!
 
 To add a fic to the masterlist, save this file with a short, slug-friendly name (e.g. "fic-title" for a fic named "Fic Title") in the `content\fic` folder, then change the values here to suit your fic. 
 
-<span class="fic-meta">
-
-**Fandom:** %meta.fandom%
-
 **Summary:** %meta.summary%
 
-**Rating:** %meta.rating%
+**Content Notes:** Here's where you list the rating, wordcount and completion status.
 
 **Links:**
-[AO3](%meta.ao3_link%) | [FF.net](%meta.ffn_link%)
-
-</span>
+[AO3](%meta.ao3_link% "Go to Fic Template Title on AO3") | [FF.net](%meta.ffn_link% "Go to Fic Template Title on FFN")
 
 [Back to masterlist][masterlist]?
 
